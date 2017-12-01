@@ -1,0 +1,18 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "lint": "eslint *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.12.1",
+    "jest": "^21.2.1",
+    "jest-cli": "^21.2.1"
+  }
+}
