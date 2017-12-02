@@ -7,11 +7,11 @@ const solver = ({data}) => {
         .split('\t')
         .map(n => +n)
         .sort((a, b) => a - b)
-      return  sortedNumbers.pop() - sortedNumbers.shift()
+      return sortedNumbers.pop() - sortedNumbers.shift()
     })
     .reduce((sum, diff) => sum + diff)
 }
 
 module.exports = {
-  solver
+  solver,
 }

@@ -16,8 +16,8 @@ test('example 3', () => {
 })
 
 test('example 4', () => {
-  const data = '5\t1\t9\t5\n'
-    + '7\t5\t3\n'
-    + '2\t4\t6\t8\n'
+  const data = '5\t1\t9\t5\n' +
+    '7\t5\t3\n' +
+    '2\t4\t6\t8\n'
   expect(solver({data})).toBe(18)
 })
