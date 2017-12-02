@@ -1,0 +1,17 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "David Trång",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.12.1",
+    "jest": "^21.2.1",
+    "jest-cli": "^21.2.1"
+  }
+}
