@@ -8,8 +8,8 @@
     "test": "jest",
     "lint": "eslint *.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "David Trång",
+  "license": "MIT",
   "dependencies": {
     "eslint": "^4.12.1",
     "jest": "^21.2.1",
