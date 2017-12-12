@@ -1,3 +1,5 @@
+--- Day 11: Hex Ed ---
+
 Crossing the bridge, you've barely reached the other side of the stream when a program comes up to you, clearly in distress. "It's my child process," she says, "he's gotten lost in an infinite grid!"
 
 Fortunately for her, you have plenty of experience with infinite grids.
@@ -30,3 +32,5 @@ How many steps away is the furthest he ever got from his starting position?
 Your puzzle answer was 1535.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
+
+
